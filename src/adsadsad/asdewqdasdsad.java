@@ -7,6 +7,8 @@ public class asdewqdasdsad {
 
 		
 	System.out.println("asdsa");
+	
+	int a=90;
 	}
 
 }
